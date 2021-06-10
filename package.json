@@ -48,7 +48,6 @@
     "@stdlib/utils": "^0.0.x"
   },
   "devDependencies": {
-    "@stdlib/_tools": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
     "@stdlib/math": "^0.0.x",
     "@stdlib/plot": "^0.0.x",
