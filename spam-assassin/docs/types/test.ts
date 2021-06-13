@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-import corpus = require( '@stdlib/datasets/spam-assassin/docs/types' );
+import corpus = require( './../../../spam-assassin/docs/types' );
 
 
 // TESTS //

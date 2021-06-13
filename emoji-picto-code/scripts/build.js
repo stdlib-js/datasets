@@ -23,7 +23,7 @@
 var resolve = require( 'path' ).resolve;
 var writeFile = require( '@stdlib/fs/write-file' ).sync;
 var objectKeys = require( '@stdlib/utils/keys' );
-var dataset = require( '@stdlib/datasets/emoji' );
+var dataset = require( './../../emoji' );
 
 
 // VARIABLES //
