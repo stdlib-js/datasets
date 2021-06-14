@@ -50,6 +50,7 @@
   "devDependencies": {
     "@stdlib/bench": "^0.0.x",
     "@stdlib/math": "^0.0.x",
+    "@stdlib/plot": "^0.0.x",
     "@stdlib/process": "^0.0.x",
     "@stdlib/random": "^0.0.x",
     "@stdlib/regexp": "^0.0.x",
