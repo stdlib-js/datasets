@@ -136,6 +136,20 @@ var speeches = sotu({
 
 <!-- /.usage -->
 
+<!-- Package usage notes. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="notes">
+
+* * *
+
+## Notes
+
+-   The dataset includes the addresses given by newly inaugurated presidents to a joint session of Congress in Washington during their first year in office, even though these are technically not State of the Union addresses. 
+
+</section>
+
+<!-- /.notes -->
+
 <section class="examples">
 
 ## Examples
