@@ -128,6 +128,22 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/img-acanthus-mollis`][@stdlib/datasets/img-acanthus-mollis]: acanthus mollis.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [getty-open-content]: http://www.getty.edu/about/opencontent.html
@@ -141,6 +157,12 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 [@blossfeldt:1928b]: http://www.getty.edu/art/collection/objects/35448/karl-blossfeldt-allium-ostrowskianum-knoblauchpflanze-german-1928/
 
 [@stdlib/buffer/ctor]: https://github.com/stdlib-js/buffer-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/img-acanthus-mollis]: https://github.com/stdlib-js/datasets/tree/main/img-acanthus-mollis
+
+<!-- </related-links> -->
 
 </section>
 

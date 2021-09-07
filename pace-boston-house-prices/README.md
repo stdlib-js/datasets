@@ -227,6 +227,23 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/harrison-boston-house-prices`][@stdlib/datasets/harrison-boston-house-prices]: A dataset derived from information collected by the US Census Service concerning housing in Boston, Massachusetts (1978).
+-   [`@stdlib/datasets/harrison-boston-house-prices-corrected`][@stdlib/datasets/harrison-boston-house-prices-corrected]: A (corrected) dataset derived from information collected by the US Census Service concerning housing in Boston, Massachusetts (1978).
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [@harrison:1978a]: https://doi.org/10.1016/0095-0696%2878%2990006-2
@@ -244,6 +261,14 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0
 
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/harrison-boston-house-prices]: https://github.com/stdlib-js/datasets/tree/main/harrison-boston-house-prices
+
+[@stdlib/datasets/harrison-boston-house-prices-corrected]: https://github.com/stdlib-js/datasets/tree/main/harrison-boston-house-prices-corrected
+
+<!-- </related-links> -->
 
 </section>
 

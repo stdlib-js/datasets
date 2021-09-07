@@ -181,6 +181,22 @@ The data files (databases) are licensed under an [Open Data Commons Attribution 
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/afinn-111`][@stdlib/datasets/afinn-111]: A list of English words rated for valence.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [afinn]: http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
@@ -198,6 +214,12 @@ The data files (databases) are licensed under an [Open Data Commons Attribution 
 [cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/
 
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/afinn-111]: https://github.com/stdlib-js/datasets/tree/main/afinn-111
+
+<!-- </related-links> -->
 
 </section>
 

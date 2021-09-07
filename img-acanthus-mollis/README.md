@@ -128,6 +128,22 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/img-allium-oreophilum`][@stdlib/datasets/img-allium-oreophilum]: allium oreophilum (pink lily leek).
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [getty-open-content]: http://www.getty.edu/about/opencontent.html
@@ -141,6 +157,12 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 [@blossfeldt:1928a]: http://www.getty.edu/art/collection/objects/35443/karl-blossfeldt-acanthus-mollis-german-1928/
 
 [@stdlib/buffer/ctor]: https://github.com/stdlib-js/buffer-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/img-allium-oreophilum]: https://github.com/stdlib-js/datasets/tree/main/img-allium-oreophilum
+
+<!-- </related-links> -->
 
 </section>
 

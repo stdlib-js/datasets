@@ -166,6 +166,22 @@ The data files (databases) are licensed under an [Open Data Commons Attribution 
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/liu-positive-opinion-words-en`][@stdlib/datasets/liu-positive-opinion-words-en]: A list of positive opinion words.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [sentiment-lexicon]: http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon
@@ -179,6 +195,12 @@ The data files (databases) are licensed under an [Open Data Commons Attribution 
 [@hu:2004a]: https://doi.org/10.1145/1014052.1014073
 
 [@liu:2005a]: https://doi.org/10.1145/1060745.1060797
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/liu-positive-opinion-words-en]: https://github.com/stdlib-js/datasets/tree/main/liu-positive-opinion-words-en
+
+<!-- </related-links> -->
 
 </section>
 

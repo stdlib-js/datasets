@@ -192,6 +192,23 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/cdc-nchs-us-births-1969-1988`][@stdlib/datasets/cdc-nchs-us-births-1969-1988]: US birth data from 1969 to 1988, as provided by the Center for Disease Control and Prevention's National Center for Health Statistics.
+-   [`@stdlib/datasets/ssa-us-births-2000-2014`][@stdlib/datasets/ssa-us-births-2000-2014]: US birth data from 2000 to 2014, as provided by the Social Security Administration.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [pddl-1.0]: http://opendatacommons.org/licenses/pddl/1.0/
@@ -201,6 +218,14 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0
 
 [csv]: https://tools.ietf.org/html/rfc4180
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/cdc-nchs-us-births-1969-1988]: https://github.com/stdlib-js/datasets/tree/main/cdc-nchs-us-births-1969-1988
+
+[@stdlib/datasets/ssa-us-births-2000-2014]: https://github.com/stdlib-js/datasets/tree/main/ssa-us-births-2000-2014
+
+<!-- </related-links> -->
 
 </section>
 

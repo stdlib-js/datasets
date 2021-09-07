@@ -126,6 +126,22 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/img-locomotion-house-cat`][@stdlib/datasets/img-locomotion-house-cat]: twenty-four views of a house cat.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [getty-open-content]: http://www.getty.edu/about/opencontent.html
@@ -139,6 +155,12 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 [@muybridge:1887b]: http://www.getty.edu/art/collection/objects/40907/eadweard-j-muybridge-animal-locomotion-american-1887/
 
 [@stdlib/buffer/ctor]: https://github.com/stdlib-js/buffer-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/img-locomotion-house-cat]: https://github.com/stdlib-js/datasets/tree/main/img-locomotion-house-cat
+
+<!-- </related-links> -->
 
 </section>
 
