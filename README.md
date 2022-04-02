@@ -1,0 +1,198 @@
+<!--
+
+@license Apache-2.0
+
+Copyright (c) 2018 The Stdlib Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+-->
+
+# Datasets
+
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
+
+> Datasets.
+
+
+
+<section class="usage">
+
+## Usage
+
+```javascript
+import datasets from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets@deno/mod.js';
+```
+
+#### datasets( name\[, options] )
+
+Returns standard library datasets.
+
+```javascript
+var data = datasets( 'MONTH_NAMES_EN' );
+/* returns
+    [
+        'January',
+        'February',
+        'March',
+        'April',
+        'May',
+        'June',
+        'July',
+        'August',
+        'September',
+        'October',
+        'November',
+        'December'
+    ]
+*/
+```
+
+The function forwards provided `options` to the dataset interface specified by `name`. 
+
+```javascript
+var opts = {
+    'data': 'cities'
+};
+
+var data = datasets( 'MINARD_NAPOLEONS_MARCH', opts );
+/* returns
+    [
+        {'lon': 24,'lat': 55,'city': 'Kowno',
+        {'lon': 25.3,'lat': 54.7,'city': 'Wilna',
+        {'lon': 26.4,'lat': 54.4,'city': 'Smorgoni',
+        {'lon': 26.8,'lat': 54.3,'city': 'Molodexno',
+        {'lon': 27.7,'lat': 55.2,'city': 'Gloubokoe',
+        {'lon': 27.6,'lat': 53.9,'city': 'Minsk',
+        {'lon': 28.5,'lat': 54.3,'city': 'Studienska',
+        {'lon': 28.7,'lat': 55.5,'city': 'Polotzk',
+        {'lon': 29.2,'lat': 54.4,'city': 'Bobr',
+        {'lon': 30.2,'lat': 55.3,'city': 'Witebsk',
+        {'lon': 30.4,'lat': 54.5,'city': 'Orscha',
+        {'lon': 30.4,'lat': 53.9,'city': 'Mohilow',
+        {'lon': 32,'lat': 54.8,'city': 'Smolensk',
+        {'lon': 33.2,'lat': 54.9,'city': 'Dorogobouge',
+        {'lon': 34.3,'lat': 55.2,'city': 'Wixma',
+        {'lon': 34.4,'lat': 55.5,'city': 'Chjat',
+        {'lon': 36,'lat': 55.5,'city': 'Mojaisk',
+        {'lon': 37.6,'lat': 55.8,'city': 'Moscou',
+        {'lon': 36.6,'lat': 55.3,'city': 'Tarantino',
+        {'lon': 36.5,'lat': 55,'city': 'Malo-Jarosewli'
+    ]
+*/
+```
+
+</section>
+
+<!-- /.usage -->
+
+<section class="examples">
+
+## Examples
+
+<!-- TODO: better examples -->
+
+<!-- eslint no-undef: "error" -->
+
+```javascript
+import datasets from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets@deno/mod.js';
+
+var data = datasets( 'MONTH_NAMES_EN' );
+console.log( data );
+```
+
+</section>
+
+<!-- /.examples -->
+
+
+
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+
+<section class="main-repo" >
+
+* * *
+
+## Notice
+
+This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+
+For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
+
+#### Community
+
+[![Chat][chat-image]][chat-url]
+
+---
+
+## License
+
+See [LICENSE][stdlib-license].
+
+
+## Copyright
+
+Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
+
+</section>
+
+<!-- /.stdlib -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/datasets.svg
+[npm-url]: https://npmjs.org/package/@stdlib/datasets
+
+[test-image]: https://github.com/stdlib-js/datasets/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/datasets/actions/workflows/test.yml?query=branch:main
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/datasets?branch=main
+
+<!--
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/datasets.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/datasets/main
+
+-->
+
+[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
+[chat-url]: https://gitter.im/stdlib-js/stdlib/
+
+[stdlib]: https://github.com/stdlib-js/stdlib
+
+[stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[umd]: https://github.com/umdjs/umd
+[es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+[deno-url]: https://github.com/stdlib-js/datasets/tree/deno
+[umd-url]: https://github.com/stdlib-js/datasets/tree/umd
+[esm-url]: https://github.com/stdlib-js/datasets/tree/esm
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/datasets/main/LICENSE
+
+</section>
+
+<!-- /.links -->
