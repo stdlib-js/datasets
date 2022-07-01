@@ -1,8 +1,0 @@
-
-Usage: cdc-nchs-us-births-1993-2004 [options]
-
-Options:
-
-  -h,    --help                Print this message.
-  -V,    --version             Print the package version.
-
