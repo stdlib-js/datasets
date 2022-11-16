@@ -85,6 +85,11 @@
     "data",
     "datasets"
   ],
+  "__stdlib__": {
+    "envs": {
+      "browser": false
+    }
+  },
   "funding": {
     "type": "patreon",
     "url": "https://www.patreon.com/athan"

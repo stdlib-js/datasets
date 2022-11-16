@@ -32,14 +32,6 @@ limitations under the License.
 npm install @stdlib/datasets
 ```
 
-Alternatively,
-
--   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
--   If you are using Deno, visit the [`deno` branch][deno-url].
--   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
-
-The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
-
 </section>
 
 <section class="usage">
@@ -277,14 +269,6 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
-
-[umd]: https://github.com/umdjs/umd
-[es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-
-[deno-url]: https://github.com/stdlib-js/datasets/tree/deno
-[umd-url]: https://github.com/stdlib-js/datasets/tree/umd
-[esm-url]: https://github.com/stdlib-js/datasets/tree/esm
-[branches-url]: https://github.com/stdlib-js/datasets/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/datasets/main/LICENSE
 
