@@ -48,14 +48,14 @@
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
-    "@stdlib/bench": "github:stdlib-js/bench",
-    "@stdlib/math": "github:stdlib-js/math",
-    "@stdlib/plot": "github:stdlib-js/plot",
-    "@stdlib/process": "github:stdlib-js/process",
-    "@stdlib/random": "github:stdlib-js/random",
-    "@stdlib/regexp": "github:stdlib-js/regexp",
-    "@stdlib/stats": "github:stdlib-js/stats",
-    "@stdlib/time": "github:stdlib-js/time",
+    "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/plot": "github:stdlib-js/plot#main",
+    "@stdlib/process": "github:stdlib-js/process#main",
+    "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/regexp": "github:stdlib-js/regexp#main",
+    "@stdlib/stats": "github:stdlib-js/stats#main",
+    "@stdlib/time": "github:stdlib-js/time#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
@@ -91,7 +91,7 @@
     }
   },
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
