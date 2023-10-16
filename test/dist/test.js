@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2023 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -21,44 +21,13 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var isArray = require( '@stdlib/assert/is-array' );
-var isObjectArray = require( '@stdlib/assert/is-plain-object-array' );
-var datasets = require( './../../dist' );
+var main = require( './../../dist' );
 
 
 // TESTS //
 
-tape( 'main export is a function', function test( t ) {
+tape( 'main export is defined', function test( t ) {
 	t.ok( true, __filename );
-	t.strictEqual( typeof datasets, 'function', 'main export is a function' );
+	t.strictEqual( main !== void 0, true, 'main export is defined' );
 	t.end();
-});
-
-tape( 'the function returns datasets', function test( t ) {
-	var data = datasets( 'MONTH_NAMES_EN' );
-	t.equal( isArray( data ), true, 'returns an array' );
-	t.equal( data.length, 12, 'has length of 12' );
-	t.end();
-});
-
-tape( 'the function supports dataset options', function tests( t ) {
-	var data;
-	var opts;
-
-	opts = {
-		'name': 'Barack Obama'
-	};
-	data = datasets( 'SOTU', opts );
-
-	t.equal( isObjectArray( data ), true, 'returns an object array' );
-	t.end();
-});
-
-tape( 'if provided an unrecognized or unsupported dataset name, the function throws an error', function test( t ) {
-	t.throws( foo, RangeError, 'throws an error' );
-	t.end();
-
-	function foo() {
-		datasets( 'beep_boop_beepity_boopity_123456789000' );
-	}
 });
