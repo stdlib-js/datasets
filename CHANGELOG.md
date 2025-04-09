@@ -4,11 +4,45 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-09)
+## Unreleased (2025-04-09)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="datasets-nightingales-rose-unreleased">
+
+#### [@stdlib/datasets/nightingales-rose](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/datasets/nightingales-rose)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a468fa8`](https://github.com/stdlib-js/stdlib/commit/a468fa85dd5a0bdf9bb98fd27fca221cac2cc465) - add `every`, `includes`, `unaryAccumulate`, and `unaryReduceSubarray` to namespace [(#6605)](https://github.com/stdlib-js/stdlib/pull/6605)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6589](https://github.com/stdlib-js/stdlib/issues/6589)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="datasets-sotu-unreleased">
 
@@ -42,9 +76,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 3 issues were closed in this release:
 
-[#5857](https://github.com/stdlib-js/stdlib/issues/5857)
+[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6589](https://github.com/stdlib-js/stdlib/issues/6589)
 
 </section>
 
@@ -54,10 +88,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Dhanyabad behera
 -   Philipp Burckhardt
+-   Pravesh Kunwar
 
 </section>
 
@@ -69,6 +104,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a468fa8`](https://github.com/stdlib-js/stdlib/commit/a468fa85dd5a0bdf9bb98fd27fca221cac2cc465) - **feat:** add `every`, `includes`, `unaryAccumulate`, and `unaryReduceSubarray` to namespace [(#6605)](https://github.com/stdlib-js/stdlib/pull/6605) _(by Pravesh Kunwar)_
 -   [`6010275`](https://github.com/stdlib-js/stdlib/commit/601027582bebc4b2f76cf9ea598a9646759f6bff) - **chore:** fix EditorConfig lint errors by replacing tabs with spaces [(#5910)](https://github.com/stdlib-js/stdlib/pull/5910) _(by Dhanyabad behera)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
 -   [`abf0407`](https://github.com/stdlib-js/stdlib/commit/abf040787f6598438b0100a729a8331b7f80f62f) - **chore:** resolve lint errors in TS files _(by Philipp Burckhardt)_
