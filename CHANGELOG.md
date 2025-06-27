@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-06-27)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`5df47c3`](https://github.com/stdlib-js/stdlib/commit/5df47c33138ddac50e4a9cfb8f0b22c1821e046b) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`aba885d`](https://github.com/stdlib-js/stdlib/commit/aba885d26ca59ff74005c624335ba969a95ed922) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`004ecc4`](https://github.com/stdlib-js/stdlib/commit/004ecc463270148af73d11dc328038de4a47bce6) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`653a7a0`](https://github.com/stdlib-js/stdlib/commit/653a7a0e5b16e06b5221c309b07bbdf3d705cc08) - **chore:** fix JavaScript lint errors [(#7096)](https://github.com/stdlib-js/stdlib/pull/7096) _(by Swapnil Hajare, Philipp Burckhardt)_
