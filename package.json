@@ -48,6 +48,7 @@
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
+    "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/math": "github:stdlib-js/math#main",
     "@stdlib/plot": "github:stdlib-js/plot#main",

@@ -180,18 +180,6 @@ DEPENDENCIES & ATTRIBUTION
 The library links against the following external libraries or contains
 implementations from the following external libraries, which have their own
 licenses:
-Digital image(s) courtesy of the Getty's Open Content Program. While there are
-no restrictions or conditions on the use of open content images, the Getty would
-appreciate a gratis copy of any scholarly publications in which the images are
-reproduced in order to maintain the collection bibliography. Copies may be sent
-to the attention of:
-
-Open Content Program
-Registrar's Office
-The J. Paul Getty Museum
-1200 Getty Center Drive, Suite 1000
-Los Angeles, CA 90049
-
 The use of the database is licensed under an Open Data Commons Public Domain
 Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
 under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
@@ -364,19 +352,16 @@ Please note that some jurisdictions do not allow for the waiver of moral rights,
 6.3 This Document does not affect any rights that You or anyone else may independently have under any applicable law to make any use of this Work, including (for jurisdictions where this Document is a licence) fair dealing, fair use, database exceptions, or any other legally recognised limitation or exception to infringement of copyright or other applicable laws.
 
 6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
-The use of the database is licensed under an Open Data Commons Public Domain
-Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
-under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
-under an Apache-2.0 license.
-
-6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
 The use of the database is licensed under a Open Data Commons Attribution 1.0
 License (ODC BY 1.0), while the database contents are licensed under a Creative
 Commons Attribution 4.0 International License (CC BY 4.0). The software is licensed under an Apache-2.0 license.
 
-Permission is granted to use this data in any format; however, if you use the database or its contents, please cite the following reference:
+If you use the database or its contents, please cite one of the following two
+papers:
 
-- Suthaharan, Shan, Mohammed Alzahrani, Sutharshan Rajasegarar, Christopher Leckie, and Marimuthu Palaniswami. 2010. "Labelled data collection for anomaly detection in wireless sensor networks." In _Proceedings of the Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP 2010)_. Brisbane, Australia: IEEE.
+- Hu, Minqing, and Bing Liu. 2004. "Mining and Summarizing Customer Reviews." In *Proceedings of the Tenth Acm Sigkdd International Conference on Knowledge Discovery and Data Mining*, 168–77. KDD '04. New York, NY, USA: ACM. doi:[10.1145/1014052.1014073](https://doi.org/10.1145/1014052.1014073).
+
+- Liu, Bing, Minqing Hu, and Junsheng Cheng. 2005. "Opinion Observer: Analyzing and Comparing Opinions on the Web." In *Proceedings of the 14th International Conference on World Wide Web*, 342–51. WWW '05. New York, NY, USA: ACM. doi:[10.1145/1060745.1060797](https://doi.org/10.1145/1060745.1060797).
 
 Creative Commons Attribution 4.0 International Public License
 
@@ -1106,12 +1091,6 @@ applicable copyright law and Database Rights in the relevant
 jurisdiction includes additional rights not granted under this License,
 these additional rights are granted in this License in order to meet the
 terms of this License.
-The use of the database is licensed under an Open Data Commons Public Domain
-Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
-under a Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
-under an Apache-2.0 license.
-
-6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
 The data files (databases) and their contents are licensed under a BSD-2-Clause
 license.
 
@@ -1140,10 +1119,121 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Digital image(s) courtesy of the Getty's Open Content Program. While there are
+no restrictions or conditions on the use of open content images, the Getty would
+appreciate a gratis copy of any scholarly publications in which the images are
+reproduced in order to maintain the collection bibliography. Copies may be sent
+to the attention of:
+
+Open Content Program
+Registrar's Office
+The J. Paul Getty Museum
+1200 Getty Center Drive, Suite 1000
+Los Angeles, CA 90049
+
 The use of the database is licensed under an Open Data Commons Public Domain
 Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
 under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
 under an Apache-2.0 license.
+
+6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
+The use of the database is licensed under an Open Data Commons Public Domain
+Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
+under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
+under an Apache-2.0 license.
+
+Permission is granted to use this data in any format; however, if you use the database or its contents, please cite the following reference:
+
+- Suthaharan, Shan, Mohammed Alzahrani, Sutharshan Rajasegarar, Christopher Leckie, and Marimuthu Palaniswami. 2010. "Labelled data collection for anomaly detection in wireless sensor networks." In _Proceedings of the Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP 2010)_. Brisbane, Australia: IEEE.
+
+10.4 Choice of law. This License takes effect in and will be governed by
+the laws of the relevant jurisdiction in which the License terms are
+sought to be enforced. If the standard suite of rights granted under
+applicable copyright law and Database Rights in the relevant
+jurisdiction includes additional rights not granted under this License,
+these additional rights are granted in this License in order to meet the
+terms of this License.
+The use of the database is licensed under a Open Data Commons Attribution 1.0
+License (ODC BY 1.0), while the database contents are licensed under a Creative
+Commons Attribution 4.0 International License (CC BY 4.0). The software is
+licensed under an Apache-2.0 license.
+
+If you use the database or its contents, please cite the following
+article:
+
+- Aschwanden, Christie. 2016. "You Can’t Trust What You Read About Nutrition." <https://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/>.
+
+10.4 Choice of law. This License takes effect in and will be governed by
+the laws of the relevant jurisdiction in which the License terms are
+sought to be enforced. If the standard suite of rights granted under
+applicable copyright law and Database Rights in the relevant
+jurisdiction includes additional rights not granted under this License,
+these additional rights are granted in this License in order to meet the
+terms of this License.
+The use of the database is licensed under an Open Data Commons Public Domain
+Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
+under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
+under an Apache-2.0 license.
+
+6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
+The data files (databases) and their contents are licensed under a BSD-2-Clause
+license.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+The use of the database is licensed under an Open Data Commons Public Domain
+Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
+under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
+under an Apache-2.0 license.
+
+6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
+Digital image(s) courtesy of the Getty's Open Content Program. While there are
+no restrictions or conditions on the use of open content images, the Getty would
+appreciate a gratis copy of any scholarly publications in which the images are
+reproduced in order to maintain the collection bibliography. Copies may be sent
+to the attention of:
+
+6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
+The use of the database is licensed under an Open Data Commons Public Domain
+Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
+under a Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
+under an Apache-2.0 license.
+
+10.4 Choice of law. This License takes effect in and will be governed by
+the laws of the relevant jurisdiction in which the License terms are
+sought to be enforced. If the standard suite of rights granted under
+applicable copyright law and Database Rights in the relevant
+jurisdiction includes additional rights not granted under this License,
+these additional rights are granted in this License in order to meet the
+terms of this License.
+The use of the database is licensed under a Open Data Commons Attribution 1.0
+License (ODC BY 1.0), while the database contents are licensed under a Creative
+Commons Attribution 4.0 International License (CC BY 4.0). The software is licensed under an Apache-2.0 license.
+
+10.4 Choice of law. This License takes effect in and will be governed by
+the laws of the relevant jurisdiction in which the License terms are
+sought to be enforced. If the standard suite of rights granted under
+applicable copyright law and Database Rights in the relevant
+jurisdiction includes additional rights not granted under this License,
+these additional rights are granted in this License in order to meet the
+terms of this License.
+The use of the database is licensed under an Open Data Commons Public Domain
+Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
+under a Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
+under an Apache-2.0 license.
+
+6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
+
+The data files (databases) and their contents are licensed under a BSD-2-Clause
+license.
 
 6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
 The use of the database is licensed under a Open Data Commons Attribution 1.0
@@ -1156,82 +1246,25 @@ paper:
 
 - Nielsen, Finn Årup. 2011. "A new ANEW: Evaluation of a word list for sentiment analysis in microblogs." In *Proceedings of the ESWC2011 Workshop on 'Making Sense of Microposts': Big Things Come in Small Packages.*, 718:93–98. CEUR Workshop Proceedings. <http://ceur-ws.org/Vol-718/paper_16.pdf>.
 
-10.4 Choice of law. This License takes effect in and will be governed by
-the laws of the relevant jurisdiction in which the License terms are
-sought to be enforced. If the standard suite of rights granted under
-applicable copyright law and Database Rights in the relevant
-jurisdiction includes additional rights not granted under this License,
-these additional rights are granted in this License in order to meet the
-terms of this License.
-The data files (databases) and their contents are licensed under a BSD-2-Clause
-license.
-
-6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
-Digital image(s) courtesy of the Getty's Open Content Program. While there are
-no restrictions or conditions on the use of open content images, the Getty would
-appreciate a gratis copy of any scholarly publications in which the images are
-reproduced in order to maintain the collection bibliography. Copies may be sent
-to the attention of:
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-The data files (databases) and their contents are licensed under a BSD-2-Clause
-license.
-
-If you use the database or its contents, please cite one of the following two
-papers:
-
-- Hu, Minqing, and Bing Liu. 2004. "Mining and Summarizing Customer Reviews." In *Proceedings of the Tenth Acm Sigkdd International Conference on Knowledge Discovery and Data Mining*, 168–77. KDD '04. New York, NY, USA: ACM. doi:[10.1145/1014052.1014073](https://doi.org/10.1145/1014052.1014073).
-
-- Liu, Bing, Minqing Hu, and Junsheng Cheng. 2005. "Opinion Observer: Analyzing and Comparing Opinions on the Web." In *Proceedings of the 14th International Conference on World Wide Web*, 342–51. WWW '05. New York, NY, USA: ACM. doi:[10.1145/1060745.1060797](https://doi.org/10.1145/1060745.1060797).
-
-10.4 Choice of law. This License takes effect in and will be governed by
-the laws of the relevant jurisdiction in which the License terms are
-sought to be enforced. If the standard suite of rights granted under
-applicable copyright law and Database Rights in the relevant
-jurisdiction includes additional rights not granted under this License,
-these additional rights are granted in this License in order to meet the
-terms of this License.
-The use of the database is licensed under an Open Data Commons Public Domain
-Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
-under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
-under an Apache-2.0 license.
-
-6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
-The use of the database is licensed under an Open Data Commons Public Domain
-Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
-under a Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
-under an Apache-2.0 license.
-
-The use of the database is licensed under an Open Data Commons Public Domain
-Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
-under a Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
-under an Apache-2.0 license.
-
-6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
-
-10.4 Choice of law. This License takes effect in and will be governed by
-the laws of the relevant jurisdiction in which the License terms are
-sought to be enforced. If the standard suite of rights granted under
-applicable copyright law and Database Rights in the relevant
-jurisdiction includes additional rights not granted under this License,
-these additional rights are granted in this License in order to meet the
-terms of this License.
-Digital image(s) courtesy of the Getty's Open Content Program. While there are
-no restrictions or conditions on the use of open content images, the Getty would
-appreciate a gratis copy of any scholarly publications in which the images are
-reproduced in order to maintain the collection bibliography. Copies may be sent
-to the attention of:
-
 - Nielsen, Finn Årup. 2011. "A new ANEW: Evaluation of a word list for sentiment analysis in microblogs." In *Proceedings of the ESWC2011 Workshop on 'Making Sense of Microposts': Big things come in small packages.*, 718:93–98. CEUR Workshop Proceedings. <http://ceur-ws.org/Vol-718/paper_16.pdf>.
+
+10.4 Choice of law. This License takes effect in and will be governed by
+the laws of the relevant jurisdiction in which the License terms are
+sought to be enforced. If the standard suite of rights granted under
+applicable copyright law and Database Rights in the relevant
+jurisdiction includes additional rights not granted under this License,
+these additional rights are granted in this License in order to meet the
+terms of this License.
+Digital image(s) courtesy of the Getty's Open Content Program. While there are
+no restrictions or conditions on the use of open content images, the Getty would
+appreciate a gratis copy of any scholarly publications in which the images are
+reproduced in order to maintain the collection bibliography. Copies may be sent
+to the attention of:
+
+The use of the database is licensed under an Open Data Commons Public Domain
+Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
+under a Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
+under an Apache-2.0 license.
 
 Copyright (C) 1993-2015 Carnegie Mellon University. All rights reserved.
 
@@ -1266,23 +1299,4 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-   END OF TERMS AND CONDITIONS
-The use of the database is licensed under an Open Data Commons Public Domain
-Dedication & License 1.0 (PDDL 1.0), while the database contents are licensed
-under Creative Commons Zero v1.0 Universal (CC0 1.0). The software is licensed
-under an Apache-2.0 license.
-
-If you use the database or its contents, please cite the following
-article:
-
-- Aschwanden, Christie. 2016. "You Can’t Trust What You Read About Nutrition." <https://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/>.
-
-10.4 Choice of law. This License takes effect in and will be governed by
-the laws of the relevant jurisdiction in which the License terms are
-sought to be enforced. If the standard suite of rights granted under
-applicable copyright law and Database Rights in the relevant
-jurisdiction includes additional rights not granted under this License,
-these additional rights are granted in this License in order to meet the
-terms of this License.
 
