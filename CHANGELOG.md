@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-06)
+## Unreleased (2025-12-16)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 4 issues were closed in this release:
+A total of 5 issues were closed in this release:
 
-[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589)
+[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`dc19786`](https://github.com/stdlib-js/stdlib/commit/dc19786d428b7294fe0ade38313fafacc073c793) - **chore:** fix JavaScript lint errors [(#9077)](https://github.com/stdlib-js/stdlib/pull/9077) _(by Divyanshu)_
 -   [`8b0b780`](https://github.com/stdlib-js/stdlib/commit/8b0b78084a2ff5d7a76ba3c5945b13d7f0906f4f) - **docs:** fix TypeScript declaration linting errors _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -48,7 +49,7 @@ A total of 4 issues were closed in this release:
 -   [`004ecc4`](https://github.com/stdlib-js/stdlib/commit/004ecc463270148af73d11dc328038de4a47bce6) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`653a7a0`](https://github.com/stdlib-js/stdlib/commit/653a7a0e5b16e06b5221c309b07bbdf3d705cc08) - **chore:** fix JavaScript lint errors [(#7096)](https://github.com/stdlib-js/stdlib/pull/7096) _(by Swapnil Hajare, Philipp Burckhardt)_
 -   [`a468fa8`](https://github.com/stdlib-js/stdlib/commit/a468fa85dd5a0bdf9bb98fd27fca221cac2cc465) - **feat:** add `every`, `includes`, `unaryAccumulate`, and `unaryReduceSubarray` to namespace [(#6605)](https://github.com/stdlib-js/stdlib/pull/6605) _(by Pravesh Kunwar)_
--   [`6010275`](https://github.com/stdlib-js/stdlib/commit/601027582bebc4b2f76cf9ea598a9646759f6bff) - **chore:** fix EditorConfig lint errors by replacing tabs with spaces [(#5910)](https://github.com/stdlib-js/stdlib/pull/5910) _(by Dhanyabad behera)_
+-   [`6010275`](https://github.com/stdlib-js/stdlib/commit/601027582bebc4b2f76cf9ea598a9646759f6bff) - **chore:** fix EditorConfig lint errors by replacing tabs with spaces [(#5910)](https://github.com/stdlib-js/stdlib/pull/5910) _(by Dhanyabad Behera)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
 -   [`abf0407`](https://github.com/stdlib-js/stdlib/commit/abf040787f6598438b0100a729a8331b7f80f62f) - **chore:** resolve lint errors in TS files _(by Philipp Burckhardt)_
 -   [`6e9f42e`](https://github.com/stdlib-js/stdlib/commit/6e9f42e4c912485d9896eaa16c88b70fd3688e97) - **docs:** harmonize list formatting in repl.txt and ensure starting newline _(by Philipp Burckhardt)_
@@ -63,10 +64,11 @@ A total of 4 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Dhanyabad behera
+-   Dhanyabad Behera
+-   Divyanshu
 -   Philipp Burckhardt
 -   Pravesh Kunwar
 -   Swapnil Hajare
