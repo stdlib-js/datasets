@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-03)
+## Unreleased (2026-01-05)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`5571f97`](https://github.com/stdlib-js/stdlib/commit/5571f978ab8d57c06dfff08288f598dbd9f10645) - **docs:** remove duplicate word _(by Athan Reines)_
 -   [`33ce408`](https://github.com/stdlib-js/stdlib/commit/33ce4082725bbb85c660b4ffeb276774778ef0a8) - **docs:** fix broken Markdown link [(#9493)](https://github.com/stdlib-js/stdlib/pull/9493) _(by Suyash Pathak, Athan Reines)_
 -   [`dc19786`](https://github.com/stdlib-js/stdlib/commit/dc19786d428b7294fe0ade38313fafacc073c793) - **chore:** fix JavaScript lint errors [(#9077)](https://github.com/stdlib-js/stdlib/pull/9077) _(by Divyanshu)_
 -   [`8b0b780`](https://github.com/stdlib-js/stdlib/commit/8b0b78084a2ff5d7a76ba3c5945b13d7f0906f4f) - **docs:** fix TypeScript declaration linting errors _(by Philipp Burckhardt)_
