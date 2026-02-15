@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-05)
+## Unreleased (2026-02-15)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071), [#9464](https://github.com/stdlib-js/stdlib/issues/9464)
+[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071), [#9464](https://github.com/stdlib-js/stdlib/issues/9464), [#10211](https://github.com/stdlib-js/stdlib/issues/10211)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`a98984e`](https://github.com/stdlib-js/stdlib/commit/a98984e09c439362ebab1a1fa8ba45aca64c2fc6) - **chore:** fix lint errors [(#10212)](https://github.com/stdlib-js/stdlib/pull/10212) _(by Om-A-osc)_
 -   [`5571f97`](https://github.com/stdlib-js/stdlib/commit/5571f978ab8d57c06dfff08288f598dbd9f10645) - **docs:** remove duplicate word _(by Athan Reines)_
 -   [`33ce408`](https://github.com/stdlib-js/stdlib/commit/33ce4082725bbb85c660b4ffeb276774778ef0a8) - **docs:** fix broken Markdown link [(#9493)](https://github.com/stdlib-js/stdlib/pull/9493) _(by Suyash Pathak, Athan Reines)_
 -   [`dc19786`](https://github.com/stdlib-js/stdlib/commit/dc19786d428b7294fe0ade38313fafacc073c793) - **chore:** fix JavaScript lint errors [(#9077)](https://github.com/stdlib-js/stdlib/pull/9077) _(by Divyanshu)_
@@ -66,11 +67,12 @@ A total of 6 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Dhanyabad Behera
 -   Divyanshu
+-   Om-A-osc
 -   Philipp Burckhardt
 -   Pravesh Kunwar
 -   Suyash Pathak
