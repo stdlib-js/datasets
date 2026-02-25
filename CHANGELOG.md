@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-23)
+## Unreleased (2026-02-25)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`0ebd0ed`](https://github.com/stdlib-js/stdlib/commit/0ebd0ed2722511ffc2a8a158a387aeb90d915c8f) - **docs:** fix lint errors in README files _(by Philipp Burckhardt)_
+-   [`4fb4995`](https://github.com/stdlib-js/stdlib/commit/4fb49958095bee6d0cfee8b5d63fcfdf94f87e6e) - **docs:** fix missing and malformed section tags in README files _(by Philipp Burckhardt)_
+-   [`f7191c0`](https://github.com/stdlib-js/stdlib/commit/f7191c093f0607ad6de9b7a21612f36bb3a84d90) - **chore:** use relative paths and remove trailing slashes in require paths _(by Philipp Burckhardt)_
 -   [`a98984e`](https://github.com/stdlib-js/stdlib/commit/a98984e09c439362ebab1a1fa8ba45aca64c2fc6) - **chore:** fix lint errors [(#10212)](https://github.com/stdlib-js/stdlib/pull/10212) _(by Om-A-osc)_
 -   [`5571f97`](https://github.com/stdlib-js/stdlib/commit/5571f978ab8d57c06dfff08288f598dbd9f10645) - **docs:** remove duplicate word _(by Athan Reines)_
 -   [`33ce408`](https://github.com/stdlib-js/stdlib/commit/33ce4082725bbb85c660b4ffeb276774778ef0a8) - **docs:** fix broken Markdown link [(#9493)](https://github.com/stdlib-js/stdlib/pull/9493) _(by Suyash Pathak, Athan Reines)_
