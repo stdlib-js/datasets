@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-03)
+## Unreleased (2026-04-10)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 8 issues were closed in this release:
 
-[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071), [#9464](https://github.com/stdlib-js/stdlib/issues/9464), [#10211](https://github.com/stdlib-js/stdlib/issues/10211)
+[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071), [#9464](https://github.com/stdlib-js/stdlib/issues/9464), [#10211](https://github.com/stdlib-js/stdlib/issues/10211), [#11319](https://github.com/stdlib-js/stdlib/issues/11319)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`9394280`](https://github.com/stdlib-js/stdlib/commit/939428040d59a8e5a5e09a6e8bda7231b1dcaeca) - **chore:** fix JavaScript lint errors [(#11320)](https://github.com/stdlib-js/stdlib/pull/11320) _(by Aniket Sonawane)_
 -   [`0ebd0ed`](https://github.com/stdlib-js/stdlib/commit/0ebd0ed2722511ffc2a8a158a387aeb90d915c8f) - **docs:** fix lint errors in README files _(by Philipp Burckhardt)_
 -   [`4fb4995`](https://github.com/stdlib-js/stdlib/commit/4fb49958095bee6d0cfee8b5d63fcfdf94f87e6e) - **docs:** fix missing and malformed section tags in README files _(by Philipp Burckhardt)_
 -   [`f7191c0`](https://github.com/stdlib-js/stdlib/commit/f7191c093f0607ad6de9b7a21612f36bb3a84d90) - **chore:** use relative paths and remove trailing slashes in require paths _(by Philipp Burckhardt)_
@@ -70,8 +71,9 @@ A total of 7 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
+-   Aniket Sonawane
 -   Athan Reines
 -   Dhanyabad Behera
 -   Divyanshu
