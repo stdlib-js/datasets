@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-10)
+## Unreleased (2026-04-19)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`67cdf3c`](https://github.com/stdlib-js/stdlib/commit/67cdf3cc8be241859493c2da00974d595eef73cb) - **chore:** propagate recent doctest and lint fixes to sibling packages [(#11585)](https://github.com/stdlib-js/stdlib/pull/11585) _(by Philipp Burckhardt)_
 -   [`9394280`](https://github.com/stdlib-js/stdlib/commit/939428040d59a8e5a5e09a6e8bda7231b1dcaeca) - **chore:** fix JavaScript lint errors [(#11320)](https://github.com/stdlib-js/stdlib/pull/11320) _(by Aniket Sonawane)_
 -   [`0ebd0ed`](https://github.com/stdlib-js/stdlib/commit/0ebd0ed2722511ffc2a8a158a387aeb90d915c8f) - **docs:** fix lint errors in README files _(by Philipp Burckhardt)_
 -   [`4fb4995`](https://github.com/stdlib-js/stdlib/commit/4fb49958095bee6d0cfee8b5d63fcfdf94f87e6e) - **docs:** fix missing and malformed section tags in README files _(by Philipp Burckhardt)_
