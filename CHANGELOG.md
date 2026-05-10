@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-19)
+## Unreleased (2026-05-10)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`b0b60c9`](https://github.com/stdlib-js/stdlib/commit/b0b60c9ba3f8e54a24d0882610652195d18b6f6e) - **chore:** rename internal variable to `main` [(#12033)](https://github.com/stdlib-js/stdlib/pull/12033) _(by Philipp Burckhardt)_
+-   [`0dc62ae`](https://github.com/stdlib-js/stdlib/commit/0dc62ae39a4817ff888e9736c3ea599f6beff4e5) - **build:** replace `eslint-plugin-node` with `eslint-plugin-n` [(#10952)](https://github.com/stdlib-js/stdlib/pull/10952) _(by Philipp Burckhardt, Athan Reines)_
 -   [`a297305`](https://github.com/stdlib-js/stdlib/commit/a2973058c05b9d01c7045190a06568d4fefdf5c5) - **bench:** refactor to use string interpolation in `datasets` [(#11618)](https://github.com/stdlib-js/stdlib/pull/11618) _(by Karan Anand)_
 -   [`67cdf3c`](https://github.com/stdlib-js/stdlib/commit/67cdf3cc8be241859493c2da00974d595eef73cb) - **chore:** propagate recent doctest and lint fixes to sibling packages [(#11585)](https://github.com/stdlib-js/stdlib/pull/11585) _(by Philipp Burckhardt)_
 -   [`9394280`](https://github.com/stdlib-js/stdlib/commit/939428040d59a8e5a5e09a6e8bda7231b1dcaeca) - **chore:** fix JavaScript lint errors [(#11320)](https://github.com/stdlib-js/stdlib/pull/11320) _(by Aniket Sonawane)_
