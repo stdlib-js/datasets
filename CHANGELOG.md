@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-11)
+## Unreleased (2026-05-15)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 8 issues were closed in this release:
+A total of 9 issues were closed in this release:
 
-[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071), [#9464](https://github.com/stdlib-js/stdlib/issues/9464), [#10211](https://github.com/stdlib-js/stdlib/issues/10211), [#11319](https://github.com/stdlib-js/stdlib/issues/11319)
+[#5857](https://github.com/stdlib-js/stdlib/issues/5857), [#6574](https://github.com/stdlib-js/stdlib/issues/6574), [#6577](https://github.com/stdlib-js/stdlib/issues/6577), [#6589](https://github.com/stdlib-js/stdlib/issues/6589), [#9071](https://github.com/stdlib-js/stdlib/issues/9071), [#9464](https://github.com/stdlib-js/stdlib/issues/9464), [#10211](https://github.com/stdlib-js/stdlib/issues/10211), [#11319](https://github.com/stdlib-js/stdlib/issues/11319), [#12137](https://github.com/stdlib-js/stdlib/issues/12137)
 
 </section>
 
@@ -34,6 +34,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`0205e0a`](https://github.com/stdlib-js/stdlib/commit/0205e0ada304cf3e79b87d9e3e7180c1dba3f8e5) - **chore:** fix JavaScript lint errors [(#12138)](https://github.com/stdlib-js/stdlib/pull/12138) _(by lmlm, Athan Reines)_
 -   [`b0b60c9`](https://github.com/stdlib-js/stdlib/commit/b0b60c9ba3f8e54a24d0882610652195d18b6f6e) - **chore:** rename internal variable to `main` [(#12033)](https://github.com/stdlib-js/stdlib/pull/12033) _(by Philipp Burckhardt)_
 -   [`0dc62ae`](https://github.com/stdlib-js/stdlib/commit/0dc62ae39a4817ff888e9736c3ea599f6beff4e5) - **build:** replace `eslint-plugin-node` with `eslint-plugin-n` [(#10952)](https://github.com/stdlib-js/stdlib/pull/10952) _(by Philipp Burckhardt, Athan Reines)_
 -   [`a297305`](https://github.com/stdlib-js/stdlib/commit/a2973058c05b9d01c7045190a06568d4fefdf5c5) - **bench:** refactor to use string interpolation in `datasets` [(#11618)](https://github.com/stdlib-js/stdlib/pull/11618) _(by Karan Anand)_
@@ -75,7 +76,7 @@ A total of 8 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Aniket Sonawane
 -   Athan Reines
@@ -87,6 +88,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 -   Pravesh Kunwar
 -   Suyash Pathak
 -   Swapnil Hajare
+-   lmlm
 
 </section>
 
