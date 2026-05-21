@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-17)
+## Unreleased (2026-05-21)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`008cf16`](https://github.com/stdlib-js/stdlib/commit/008cf164e7790c1e318752b409b86100d91e1f69) - **docs:** update related packages sections [(#12223)](https://github.com/stdlib-js/stdlib/pull/12223) _(by stdlib-bot)_
 -   [`dca1108`](https://github.com/stdlib-js/stdlib/commit/dca1108ecd60ec63ce4dcb4305000c2390c93c49) - **chore:** use `format` for error messages in `datasets/*` build scripts [(#12157)](https://github.com/stdlib-js/stdlib/pull/12157) _(by Philipp Burckhardt)_
 -   [`0205e0a`](https://github.com/stdlib-js/stdlib/commit/0205e0ada304cf3e79b87d9e3e7180c1dba3f8e5) - **chore:** fix JavaScript lint errors [(#12138)](https://github.com/stdlib-js/stdlib/pull/12138) _(by lmlm, Athan Reines)_
 -   [`b0b60c9`](https://github.com/stdlib-js/stdlib/commit/b0b60c9ba3f8e54a24d0882610652195d18b6f6e) - **chore:** rename internal variable to `main` [(#12033)](https://github.com/stdlib-js/stdlib/pull/12033) _(by Philipp Burckhardt)_
