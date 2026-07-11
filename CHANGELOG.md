@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-23)
+## Unreleased (2026-07-11)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`65dacc4`](https://github.com/stdlib-js/stdlib/commit/65dacc4c17808d7affbd10b9e643dbd77f24e2e8) - **chore:** update keywords [(#13423)](https://github.com/stdlib-js/stdlib/pull/13423) _(by Philipp Burckhardt)_
 -   [`8537871`](https://github.com/stdlib-js/stdlib/commit/85378717b7c175871f8397932851c5b2e3b3777f) - **chore:** fix JavaScript lint errors [(#12826)](https://github.com/stdlib-js/stdlib/pull/12826) _(by Sathwik Vemula)_
 
 </details>
@@ -36,8 +37,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Sathwik Vemula
 
 </section>
