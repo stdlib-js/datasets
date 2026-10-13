@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-26)
+## Unreleased (2026-10-13)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#12822](https://github.com/stdlib-js/stdlib/issues/12822)
+[#12822](https://github.com/stdlib-js/stdlib/issues/12822), [#16095](https://github.com/stdlib-js/stdlib/issues/16095)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b3f179a`](https://github.com/stdlib-js/stdlib/commit/b3f179aa1cd774303f83661434c5e459e1199558) - **chore:** fix EditorConfig lint errors [(#16096)](https://github.com/stdlib-js/stdlib/pull/16096) _(by Aykut Güney)_
 -   [`65dacc4`](https://github.com/stdlib-js/stdlib/commit/65dacc4c17808d7affbd10b9e643dbd77f24e2e8) - **chore:** update keywords [(#13423)](https://github.com/stdlib-js/stdlib/pull/13423) _(by Philipp Burckhardt)_
 -   [`8537871`](https://github.com/stdlib-js/stdlib/commit/85378717b7c175871f8397932851c5b2e3b3777f) - **chore:** fix JavaScript lint errors [(#12826)](https://github.com/stdlib-js/stdlib/pull/12826) _(by Sathwik Vemula)_
 
@@ -37,8 +38,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aykut Güney
 -   Philipp Burckhardt
 -   Sathwik Vemula
 
